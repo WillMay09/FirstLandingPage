@@ -162,9 +162,19 @@ margin-top: 50px;
 .footer-content{
     display: flex;
     justify-content: space-between;
+    align-content: center;
     background-color: #3882F6;
     color:#F9FAF8;
     margin:100px 150px;
+
+
+
+}
+
+.footer-button{
+    background-color: #3882F6;
+    color:#F9FAF8;
+    text-align: center;
 
 
 
